@@ -1,0 +1,11 @@
+# AI 中转服务的配置示例，不是豆沙包直接读取的配置。
+# 如果你已经有正在运行的中转服务，继续使用原有配置。
+host: "127.0.0.1"
+port: 8317
+auth-dir: "~/.cli-proxy-api"
+api-keys:
+  - "替换为与GROK_PROXY_API_KEY相同的口令"
+debug: false
+remote-management:
+  allow-remote: false
+  secret-key: ""

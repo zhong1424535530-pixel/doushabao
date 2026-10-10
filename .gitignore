@@ -1,0 +1,17 @@
+# 本机口令和登录资料
+.env
+.env.*
+运行配置.sh
+config.yaml
+.proxy-key
+
+# 临时文件和本机安装目录
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.log
+*.db
+*.sqlite*
+.DS_Store
+._*

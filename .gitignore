@@ -15,3 +15,8 @@ venv/
 *.sqlite*
 .DS_Store
 ._*
+
+# 中转服务的真实登录资料和日志
+.cli-proxy-api/
+auths/
+logs/

@@ -1,0 +1,14 @@
+{
+  "version": "7.1.19",
+  "upstream_repository": "https://github.com/router-for-me/CLIProxyAPI",
+  "source_commit": "21fad9dbb447a2ab70d51d0ac3e3d032525a6054",
+  "source_url": "https://github.com/router-for-me/CLIProxyAPI/tree/21fad9dbb447a2ab70d51d0ac3e3d032525a6054",
+  "release_url": "https://github.com/router-for-me/CLIProxyAPI/releases/tag/v7.1.19",
+  "official_archive_sha256": "5f31fd131f582322013965348392799c3aa25947e8d8eea602df1643b29150a6",
+  "installed_binary_sha256": "e3f952d10a9e9d20f4221decee8c8cf48bbfe56e7af4f1445aa8fc3f81711f80",
+  "official_binary_sha256": "e3f952d10a9e9d20f4221decee8c8cf48bbfe56e7af4f1445aa8fc3f81711f80",
+  "installed_binary_matches_official_release": true,
+  "build_vcs_modified": true,
+  "go_version": "go1.26.3",
+  "build_date": "2026-05-20T20:20:56Z"
+}
